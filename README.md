@@ -1,7 +1,5 @@
 # jangadeiro
 
-> There's always a partner by your side, rowing towards the same destination.
-
 **Jangadeiro** is a collection of skills and plugins for Claude Code, created to be the perfect partner in software development — just as the rower is the indispensable partner to the master on the raft.
 
 ---
